@@ -5,3 +5,4 @@
 3. set user and password inside application.properties
 4. set user and password with UserDetailsService
 5. Using Bcrypt password encoder
+6. In memory User Authentication
